@@ -1,7 +1,7 @@
 {
   "name": "tree-view-order",
   "description": "Natural sort order for tree-view files and folders",
-  "repository": "https://github.com/asiloisad/pulsar-tree-view-order",
+  "repository": "https://github.com/asiloisad-pulsar/tree-view-order",
   "keywords": [
     "tree-view",
     "order",

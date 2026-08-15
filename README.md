@@ -2,7 +2,7 @@
 
 Natural sort order for tree-view files and folders.
 
-Consider to use [tree-view-plus](https://github.com/asiloisad/tree-view-plus) instead.
+Consider to use [tree-view-plus](https://github.com/asiloisad-pulsar/tree-view-plus) instead.
 
 ## Features
 
